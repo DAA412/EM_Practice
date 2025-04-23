@@ -1,0 +1,2 @@
+sync ≈ 159s
+async ≈ 76s
